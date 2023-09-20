@@ -21,6 +21,7 @@
   - [megabox jhk remodeling project](https://github.com/jeonguk29/megabox_jhk_remodeling_project) 2022 학과 PHP Framework 대회 대상
 
 ### [1.4. Activities]
+  - 2023 멋쟁이 사자처럼 앱 스쿨 3기 진행중
   - 2023 앨런 Swift 문법 마스터 스쿨 17기 수료
   - 2023 Academy 123  스터디 팀장
   - 2022 교내 iOS 멘토 
